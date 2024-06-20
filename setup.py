@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='call-sequencer',
-    version='1.0.1',
+    version='1.0.2',
     packages=find_packages(),
     author='Sjal Choudhari',
     author_email='sjlchoudhari@gmail.com',
