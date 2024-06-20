@@ -13,7 +13,7 @@ pip install call-sequencer
 ## Usage
 
 ```python
-from call_sequencer.block import CallSequencer
+from call_sequencer import CallSequencer
 
 # Example usage
 text_processor = (
